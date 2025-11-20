@@ -134,5 +134,5 @@ csv2json-mcp/
 ## 联系方式
 
 如有问题，请通过以下方式联系：
-- 项目仓库：https://github.com/your-username/csv2json-mcp
-- 邮箱：your-email@example.com
+- 项目仓库：https://github.com/es3154/csv2json-mcp
+- 邮箱：893928676@qq.com
