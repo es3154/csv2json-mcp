@@ -21,20 +21,7 @@
 
 
 ### mcp server 配置
-#### stdio 模式
-##### Windows
-```json
- {
-  "mcpServers": {
-   "csv2json": {
-      "command": "cmd",
-      "args": ["/c", "uvx", "csv2json-mcp"],
-      "type": "stdio"
-    } 
-  }
-}
-```
-##### macOS/Linux
+
 ```json
  {
   "mcpServers": {
