@@ -26,7 +26,7 @@
 ```json
  {
   "mcpServers": {
-   "turf-mcp-server": {
+   "csv2json": {
       "command": "cmd",
       "args": ["/c", "uvx", "csv2json-mcp"],
       "type": "stdio"
@@ -38,7 +38,7 @@
 ```json
  {
   "mcpServers": {
-   "turf-mcp-server": {
+   "csv2json": {
       "command": "uvx",
       "args": ["csv2json-mcp"],
       "type": "stdio"
