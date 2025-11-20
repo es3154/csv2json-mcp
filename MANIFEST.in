@@ -1,0 +1,17 @@
+# 包含 README 文件
+include README.md
+
+# 包含示例文件
+include example/*.csv
+include example/*.json
+include example/*.py
+
+# 排除不需要的文件
+exclude .venv
+exclude __pycache__
+exclude *.pyc
+exclude dist
+exclude *.egg-info
+exclude .git
+exclude .github
+exclude tests
